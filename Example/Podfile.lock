@@ -1,0 +1,16 @@
+PODS:
+  - BehavioralDesignCue (0.1.0)
+
+DEPENDENCIES:
+  - BehavioralDesignCue (from `../`)
+
+EXTERNAL SOURCES:
+  BehavioralDesignCue:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BehavioralDesignCue: c84a4e78d08dc608e65c194e34c0c3de29c53bc9
+
+PODFILE CHECKSUM: a95327b66a348133ab1ef8cd07eeb4217abfe908
+
+COCOAPODS: 1.5.3

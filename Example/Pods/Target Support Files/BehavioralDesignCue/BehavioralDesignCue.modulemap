@@ -1,0 +1,6 @@
+framework module BehavioralDesignCue {
+  umbrella header "BehavioralDesignCue-umbrella.h"
+
+  export *
+  module * { export * }
+}

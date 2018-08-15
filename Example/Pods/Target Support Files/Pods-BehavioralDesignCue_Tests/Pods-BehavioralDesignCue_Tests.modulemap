@@ -1,0 +1,6 @@
+framework module Pods_BehavioralDesignCue_Tests {
+  umbrella header "Pods-BehavioralDesignCue_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

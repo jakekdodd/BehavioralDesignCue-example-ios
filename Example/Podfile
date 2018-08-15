@@ -1,0 +1,12 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'BehavioralDesignCue_Example' do
+  pod 'BehavioralDesignCue', :path => '../'
+
+  target 'BehavioralDesignCue_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

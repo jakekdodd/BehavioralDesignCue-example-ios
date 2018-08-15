@@ -1,0 +1,23 @@
+{
+  "name": "BehavioralDesignCue",
+  "version": "0.1.0",
+  "summary": "An implementation for labeling Behavioral Design Cues for App Opens. Cues like notifications, shortcuts, and deep links are categorized into synthetic, internal, and external cues.",
+  "description": "An implementation for labeling Behavioral Design Cues for App Opens. Cues like notifications, shortcuts, and deep links are categorized into synthetic, internal, and external cues. The eBook Digital Behavioral Design (https://www.boundless.ai/ebook/) goes into more detail on what cues are and how they affect users.",
+  "homepage": "https://www.boundless.ai",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "boundlessai": "team@boundless.ai"
+  },
+  "source": {
+    "git": "https://github.com/BoundlessAI/BehavioralDesignCue-example-ios.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/boundlessai",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BehavioralDesignCue/Classes/**/*"
+}
