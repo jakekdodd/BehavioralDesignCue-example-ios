@@ -1,0 +1,6 @@
+framework module BoundlessKit {
+  umbrella header "BoundlessKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

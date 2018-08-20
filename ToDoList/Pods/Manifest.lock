@@ -1,0 +1,16 @@
+PODS:
+  - BoundlessKit (5.5.4-ios8)
+
+DEPENDENCIES:
+  - BoundlessKit (~> 5.5.4-ios8)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BoundlessKit
+
+SPEC CHECKSUMS:
+  BoundlessKit: 2b3f0bde4257b5868b354e2cbdc89488b21135b0
+
+PODFILE CHECKSUM: cd5232eda7974cc29a439427ecb43fb6ebec1023
+
+COCOAPODS: 1.5.3
